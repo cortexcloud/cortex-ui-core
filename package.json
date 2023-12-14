@@ -1,5 +1,5 @@
 {
-  "name": "@cortex-ui/core",
+  "name": "@cortexcloud/cortex-ui-core",
   "version": "0.0.304",
   "description": "Cortex-UI is Web Component develop from Cortex Design System from Hlab Designer Team.",
   "main": "index.js",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Punyarit/cortex-ui.git"
+    "url": "https://github.com/cortexcloud/cortex-ui-core.git"
   },
   "keywords": [
     "Cortex-UI"
   ],
-  "author": "Punyarit",
+  "author": "Cortex-UI Team",
   "license": "H Lab Co., Ltd.",
   "bugs": {
     "url": "https://github.com/Punyarit/cortex-ui/issues"
