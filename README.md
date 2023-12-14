@@ -1,1 +1,1 @@
-# cortex-ui-core
+# cortex-ui
